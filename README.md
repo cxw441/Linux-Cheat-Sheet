@@ -2,9 +2,9 @@
 
 (A) Browsing and navigating directories
 
-List files and directories in the current directory: [ls] command
+List files and directories in the current directory: [ls] list command
 
-Prints the path name to the present working directory: [pwd] command 
+Prints the path name to the present working directory: [pwd] print working directory command 
 
 Change the current directory:
 
