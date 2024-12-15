@@ -1,4 +1,4 @@
-# Linux-Cheat-Sheet
+# Linux-Tips 
 
 (A) Browsing and navigating directories
 
