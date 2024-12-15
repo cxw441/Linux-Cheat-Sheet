@@ -9,7 +9,9 @@ Prints the path name to the present working directory: [pwd] command
 Change the current directory:
 
 (1) Up one level: [cd ../]
+
 (2) To home: [cd ~ or cd]
+
 (3) To some other directory: [cd path_to_directory]
 
 (B) Upgrading and installing packages
